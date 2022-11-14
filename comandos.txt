@@ -1,0 +1,8 @@
+- si cd no se le especifica nada va al /home
+- ~ significa home
+- ls -l -h ----> -h= humano pa q las cantidades se vean en mb
+- ls -l -h = ls -lh
+- mkdir -p ----> -p hace que si no existe la carpeta la cree : dam/ssf/eje1, si ssf no existe no vota error sino crea ssf y luego eje1  
+- mv nombreViejo nombreNuevo
+- \ en comandos significa que el siguiente caracter no es nada en especial sino un caracter
+- 
